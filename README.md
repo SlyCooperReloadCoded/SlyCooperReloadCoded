@@ -36,14 +36,15 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 **My advice:**
 
 - Facts don't care about your feelings.
-- "Closed-source preservation" is a term created by hoarders to justify their mindset.
-- Game developers should ALWAYS drink their consistence-tea to avoid silly development choices that don't help anyone.
-- No, ignorance does NOT equal compliance.
-- Yes, it is possible to be born with a brain incapable of learning something, "nah you're just making excuses" not applying to you.
-- If you get everything you want in life, then there's no point in living.
+- Actions speak louder than words.
 - Treat others the way you want to be treated.
-- The least-influential person is almost always right.
+- Ignorance does NOT equal compliance or agreement.
+- The smallest voice always speaks the truth.
+- The best liar you know is NOT the best liar you know.
+- Admitting that you were wrong is an attractive quality, because it shows strength, except if you're not wrong, since that shows weakness.
+- It IS possible to be born with a brain incapable of learning something specific.
+- If you have everything you want in life, then there's no point in living.
+- "Closed-source preservation" is a term coined by hoarders to justify their mindset.
+- Game developers should ALWAYS drink their consistence-tea to avoid silly development choices that hinder others' progress.
 - Anyone who says "It'll get better" to someone with depression should not be talking to people with depression.
 - Some people don't have a purpose in life and were meant to fail, and there's nothing wrong with that.
-- Admitting that you were wrong is an attractive quality, because it shows strength, except if you're not wrong, since that shows weakness.
-- The best liar you know is NOT the best liar you know.
