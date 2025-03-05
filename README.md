@@ -31,3 +31,16 @@ I'm SlyCooperReloadCoded, a game reverse-engineer and preservationist who's alwa
 - A girlfriend (if you're still a virgin when you turn 30, you become a wizard, and that doesn't interest me)
 - Actual bottled Shirley Temple product sold on store shelves, the recent soda that failed to replicate the flavor doesn't count
 - Destination Home releasing what they've hoarded
+
+**My advice:**
+
+- "Closed-source preservation" is a term created by hoarders to justify their mindset.
+- Game developers should ALWAYS drink their consistence-tea to avoid silly development choices that don't help anyone.
+- No, ignorance does NOT equal compliance.
+- Yes, it is possible to be born with a brain incapable of learning something, "nah you're just making excuses" not applying to you.
+- If you get everything you want in life, then what's the point of living?
+- Treat others the way you want to be treated.
+- Just because the most influential person says something doesn't mean it's true.
+- Anyone who says "It'll get better" to depression has no clue what they're talking about.
+- Some people don't have a purpose in life and were meant to fail, and there's nothing wrong with that.
+- Admitting that you were wrong is an attractive quality, because it shows strength.
