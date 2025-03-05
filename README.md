@@ -1,6 +1,6 @@
 ## Welcome to my little corner of the internet!
 
-I'm SlyCooperReloadCoded, a game reverse-engineer and preservationist who's always taking on new challenges and trying to make a differene in society, one byte at a time!  27 years old and she/her, before anyone asks.
+I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationist who's always taking on new challenges and trying to make a difference in society, one byte at a time!
 
 **My accomplishments:**
 
