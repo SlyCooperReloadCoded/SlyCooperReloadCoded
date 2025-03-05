@@ -35,14 +35,15 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 
 **My advice:**
 
+- Needing Subway Surfers gameplay to concentrate doesn't mean you have ADHD, it means you have an abnormally weak brain.
 - "Closed-source preservation" is a term created by hoarders to justify their mindset.
 - Game developers should ALWAYS drink their consistence-tea to avoid silly development choices that don't help anyone.
 - No, ignorance does NOT equal compliance.
 - Yes, it is possible to be born with a brain incapable of learning something, "nah you're just making excuses" not applying to you.
 - If you get everything you want in life, then there's no point in living.
 - Treat others the way you want to be treated.
-- Just because the most influential person says something doesn't mean it's true.
-- Anyone who says "It'll get better" to depression has no clue what they're talking about.
+- The least-influential person is almost always right.
+- Anyone who says "It'll get better" to someone with depression should not be talking to people with depression.
 - Some people don't have a purpose in life and were meant to fail, and there's nothing wrong with that.
 - Admitting that you were wrong is an attractive quality, because it shows strength, except if you're not wrong, since that shows weakness.
 - The best liar you know is NOT the best liar you know.
