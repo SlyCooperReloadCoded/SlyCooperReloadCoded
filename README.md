@@ -44,4 +44,5 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - Just because the most influential person says something doesn't mean it's true.
 - Anyone who says "It'll get better" to depression has no clue what they're talking about.
 - Some people don't have a purpose in life and were meant to fail, and there's nothing wrong with that.
-- Admitting that you were wrong is an attractive quality, because it shows strength.
+- Admitting that you were wrong is an attractive quality, because it shows strength, except if you're not wrong, since that shows weakness.
+- The best liar you know is NOT the best liar you know.
