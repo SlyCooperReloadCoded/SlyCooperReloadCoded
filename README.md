@@ -41,7 +41,7 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - Ignorance does NOT equal compliance or agreement.
 - The smallest voice always speaks the truth.
 - The best liar you know is NOT the best liar you know.
-- Admitting that you were wrong is an attractive quality, because it shows strength, except if you're not wrong, since that shows weakness.
+- Admitting you're wrong shows strength, except if you're not wrong, since that shows weakness.
 - It IS possible to be born with a brain incapable of learning something specific.
 - If you have everything you want in life, then there's no point in living.
 - "Closed-source preservation" is a term coined by hoarders to justify their mindset.
