@@ -23,8 +23,8 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 
 **My wishes:**
 
-- Jonny Moseley Mad Trix IGN beta build leaks
-- Sly 2 Monaco build leaks
+- Jonny Moseley Mad Trix IGN beta build leak
+- Sly 2 Monaco build leak
 - SSX 3 full non-demo pre-alpha build leak
 - Star Wars: Starfighter E3 build leak
 - Toxic Grind early trailer build leak
