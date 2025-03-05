@@ -35,7 +35,7 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 
 **My advice:**
 
-- Needing Subway Surfers gameplay to concentrate doesn't mean you have ADHD, it means you have an abnormally weak brain.
+- Facts don't care about your feelings.
 - "Closed-source preservation" is a term created by hoarders to justify their mindset.
 - Game developers should ALWAYS drink their consistence-tea to avoid silly development choices that don't help anyone.
 - No, ignorance does NOT equal compliance.
