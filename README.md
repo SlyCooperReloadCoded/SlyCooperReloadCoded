@@ -16,7 +16,7 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 **My current projects:**
 
 - [SSX Sound Pack](https://gist.github.com/SlyCooperReloadCoded/b89a1e4ae346c75ffba0e92b608b9f01), a resource containing every music track, voice line, and sound effect from every game in the SSX franchise, available in lossless FLAC, started due to the only resource behing low-quality game recordings
-- *[Home's Foundations](https://gist.github.com/SlyCooperReloadCoded/6fcf2b07e9fce62aeedd0bd8b2bd1df9)*, an ever-expanding source of unbiased truth relating to any and all controversey and danger in the PlayStation Home revival scene
+- *[Home's Foundations](https://gist.github.com/SlyCooperReloadCoded/6fcf2b07e9fce62aeedd0bd8b2bd1df9)*, an ever-expanding source of unbiased truth relating to any and all controversey and danger in the PlayStation Home revival scene, often censored and/or suppressed due to its accuracy
 - [SSX Franchise Unused Content Video](https://www.youtube.com/watch?v=_bt_NIiDekg), a massive video project showcasing all unused content across the entire SSX franchise, currently in limbo due to lack of motivation... perhaps there's a better format for this?
 - Breaking and Entering (formerly known as Map Mastery), a game mod series for the first three Sly Cooper games, aiming to allow re-entry of all interiors and nullify dangers such as security lasers, damage planes, water, spotlights, etc.
 - [Ultimate SSX Iceberg](https://icebergcharts.com/i/Ultimate_SSX), [Ultimate Star Wars: Starfighter Iceberg](https://icebergcharts.com/i/Ultimate_Star_Wars_Starfighter), and the [Jonny Moseley Mad Trix Iceberg](https://icebergcharts.com/i/Jonny_Moseley_Mad_Trix)
@@ -41,7 +41,7 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - Ignorance does NOT equal compliance or agreement.
 - The smallest voice always speaks the truth.
 - The best liar you know is NOT the best liar you know.
-- Admitting you're wrong shows strength, except if you're not wrong, since that shows weakness.
+- Admitting you're wrong shows strength, except if you're not wrong, which shows weakness.
 - It IS possible to be born with a brain incapable of learning something specific.
 - If you have everything you want in life, then there's no point in living.
 - "Closed-source preservation" is a term coined by hoarders to justify their mindset.
