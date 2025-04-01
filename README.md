@@ -30,7 +30,7 @@ https://docs.google.com/document/d/1_TrsnpFCUzGJGydIjPn_OibwDK84nrl8fmOHO_yGhHg/
 - SSX 3 full non-demo pre-alpha build leak
 - Star Wars: Starfighter E3 build leak
 - Toxic Grind early trailer build leak
-- Enough moeny for a new gaming PC with ALL the bells and whistles so I'm not always 2 technology generations behind
+- Enough money for a new gaming PC with ALL the bells and whistles so I'm not always 2 technology generations behind
 - A girlfriend (if you're still a virgin when you turn 30, [you become a wizard](https://youtu.be/qRWgfbCm5ho?t=95), and that doesn't interest me)
 - Actual bottled Shirley Temple product sold on store shelves, the recent soda that failed to replicate the flavor doesn't count
 - Destination Home releasing what they've hoarded
