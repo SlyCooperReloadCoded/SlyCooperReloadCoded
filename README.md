@@ -25,15 +25,15 @@ https://docs.google.com/document/d/1_TrsnpFCUzGJGydIjPn_OibwDK84nrl8fmOHO_yGhHg/
 
 **My wishes:**
 
-- Jonny Moseley Mad Trix IGN beta build leak
-- Sly 2 Monaco build leak
-- SSX 3 full non-demo pre-alpha build leak
-- Star Wars: Starfighter E3 build leak
-- Toxic Grind early trailer build leak
+- Jonny Moseley Mad Trix IGN beta build and/or full retail source code
+- A debug-enabled Sly 2 build with the Monaco level in it, even if that's the only level
+- SSX 3 full non-demo pre-alpha build, the one that was cut down to create the pre-alpha demo
+- Star Wars: Starfighter E3 build (a.k.a. Star Wars Episode I: Starfighter) leak
+- Toxic Grind early trailer build, the one with Cave Dwellings
 - Enough money for a new gaming PC with ALL the bells and whistles so I'm not always 2 technology generations behind
 - A girlfriend (if you're still a virgin when you turn 30, [you become a wizard](https://youtu.be/qRWgfbCm5ho?t=95), and that doesn't interest me)
-- Actual bottled Shirley Temple product sold on store shelves, the recent soda that failed to replicate the flavor doesn't count
-- Destination Home releasing what they've hoarded
+- Actual bottled Shirley Temple product sold on store shelves, and permanently (the recent soda that failed to replicate the flavor doesn't count)
+- Destination Home releasing what they've hoarded and making a fully-transparent public apology admitting all wrongdoings
 
 **My advice:**
 
