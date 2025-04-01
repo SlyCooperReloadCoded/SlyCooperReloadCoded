@@ -41,7 +41,7 @@ https://docs.google.com/document/d/1_TrsnpFCUzGJGydIjPn_OibwDK84nrl8fmOHO_yGhHg/
 - Actions speak louder than words.
 - Treat others the way you want to be treated.
 - Ignorance does NOT equal compliance or agreement.
-- The smallest voice always speaks the truth.
+- Listen to the smallest voice before paying attention to the loudest voice.
 - The best liar you know is NOT the best liar you know.
 - Admitting you're wrong shows strength, except if you're not wrong, which shows weakness.
 - It IS possible to be born with a brain incapable of learning something specific.
