@@ -40,7 +40,7 @@ https://docs.google.com/document/d/1_TrsnpFCUzGJGydIjPn_OibwDK84nrl8fmOHO_yGhHg/
 - Facts don't care about your feelings.
 - Actions speak louder than words.
 - Treat others the way you want to be treated.
-- Ignorance does NOT equal compliance or agreement.
+- Ignorance only equals compliance or agreement if sufficient evidence proves you're in the wrong.
 - Listen to the smallest voice before paying attention to the loudest voice.
 - The best liar you know is NOT the best liar you know.
 - Admitting you're wrong shows strength, except if you're not wrong, which shows weakness.
