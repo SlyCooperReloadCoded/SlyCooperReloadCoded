@@ -29,7 +29,7 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - Star Wars: Starfighter E3 build (a.k.a. Star Wars Episode I: Starfighter) leak
 - Toxic Grind early trailer build, the one with Cave Dwellings
 - Enough money for a new gaming PC with ALL the bells and whistles so I'm not always 2 technology generations behind
-- A girlfriend (if you're still a virgin when you turn 30, [you become a wizar](https://youtu.be/qRWgfbCm5ho?t=95)[d](https://docs.google.com/document/d/1_TrsnpFCUzGJGydIjPn_OibwDK84nrl8fmOHO_yGhHg/edit?usp=sharing), and that doesn't interest me)
+- A girlfriend (if you're still a virgin when you turn 30, [you become a wizard](https://youtu.be/qRWgfbCm5ho?t=95), and that doesn't interest me)
 - Actual bottled Shirley Temple product sold on store shelves, one that can't be discontinued
 - Destination Home releasing what they've hoarded and making a fully-transparent public apology admitting all wrongdoings
 
