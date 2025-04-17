@@ -1,8 +1,6 @@
-## Welcome to my little corner of the internet!
+## Welcome to my little corner of GitHub!
 
-I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationist who's always taking on new challenges and trying to make a difference in society, one byte at a time!  I recently started a personal blog, which you can read here:
-
-https://docs.google.com/document/d/1_TrsnpFCUzGJGydIjPn_OibwDK84nrl8fmOHO_yGhHg/edit?usp=sharing
+I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationist who's always taking on new challenges and trying to make a difference in society, one byte at a time!
 
 **My accomplishments:**
 
