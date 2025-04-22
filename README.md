@@ -9,7 +9,6 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - Creating a [speedrunning scene](https://discord.gg/aHA8DTyuNZ) for the obscure and underappreciated PlayStation 2 game known as Jonny Moseley Mad Trix
 - Finding [new cheat codes](https://youtu.be/9EXoN8oh_4Y?t=1151) in an original Xbox game known as Toxic Grind
 - Being one of two people to reverse-engineer another obscure title known as Rolling to make it fully completable, as some optional content was locked behind a [secret area](https://www.youtube.com/watch?v=Ogu1ha7FNBY) no one knew existed
-- Keeping the Watch Dogs 2 modding scene alive during long periods of no activity
 - Creating a [modding scene](https://discord.gg/vCwqfSzrr9) for the Star Wars: Starfighter game franchise
 - Rediscovered and [properly documented](https://www.youtube.com/watch?v=RSXAPz7SmIs) an easter egg in Star Wars: Starfighter previously only documented on ancient forums that no longer exist
 - Created the [SSX Sound Pack](https://gist.github.com/SlyCooperReloadCoded/b89a1e4ae346c75ffba0e92b608b9f01), a resource containing every music track, voice line, and sound effect from every game in the SSX franchise, available in lossless FLAC, started due to the only resource behing low-quality game recordings
