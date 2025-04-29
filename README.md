@@ -37,11 +37,11 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - Interpreting a person's words before interpreting their intent has disasterous results.
 - Treat others the way you want to be treated.
 - Ignorance only equals compliance or agreement if sufficient evidence proves you're in the wrong.
-- Judge a person by their strengths, not their weaknesses.
+- Judge a person by what they CAN do, not what they CAN'T or DON'T do.
 - Listen to the smallest voice before paying attention to the loudest voice.
 - The best liar you know is not the best liar you know.
 - Admitting you're wrong shows strength, except if you're not wrong, which shows weakness.
-- "Closed-source preservation" is a term coined by hoarders to justify their mindset.
+- "Closed source projects" are real and common, and there's nothing wrong with them, however "closed-source preservation" is a term coined by hoarders to justify their morally-incorrect mindset.
 - Game developers should ALWAYS drink their consistence-tea to avoid silly development choices that hinder others' progress.
 - Anyone who says "It'll get better" to someone with depression should not be talking to people with depression.
 - Some people don't have a purpose in life and were meant to fail, and there's nothing wrong with that.
