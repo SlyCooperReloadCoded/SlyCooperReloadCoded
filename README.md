@@ -33,6 +33,7 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 
 **My advice:**
 
+- Functional humans don't use artificial intelligence as a replacement for literacy skills or other basic brain capabilities.
 - Facts don't care about your feelings.
 - Interpreting a person's words before interpreting their intent has disasterous results.
 - Treat others the way you want to be treated.
