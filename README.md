@@ -37,7 +37,7 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - Facts don't care about your feelings.
 - Interpreting a person's words before interpreting their intent has disasterous results.
 - Treat others the way you want to be treated.
-- The truest of truths hurt the most.
+- If a commonly-known truth offends you, the person who told that truth is not at fault for doing so.
 - Ignorance only equals compliance or agreement if sufficient evidence proves you're in the wrong.
 - Judge a person by what they CAN do, not what they CAN'T or DON'T do.
 - Listen to the smallest voice before paying attention to the loudest voice.
