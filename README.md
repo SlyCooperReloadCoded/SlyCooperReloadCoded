@@ -47,11 +47,11 @@ Example:
 
 - Treat others the way you want to be treated.
 
-Example: Don't tell someone they're unattractive if you don't want to be told that you're unattractive.
+Don't tell someone they're stupid if you don't want to be told that you're stupid.
 
 - Facts and truths by definition cannot be offensive, since offense is rooted in opinion.
 
-Example: People in power got World War II removed from teaching material in schools because they thought it was offensive.  History is factual and did happen, yet sensitive events were treated as opinionated.
+History is factual and did happen, even during pre-human times where the entire concept of offense did not exist, such as the Prehistoric Era.  The dinosaurs could not try and alter documentation of events, so you also should not.
 
 - Ignorance only equals compliance or agreement if you're actively involved.
 
@@ -63,19 +63,19 @@ As Albert Einstein once said, "Everyone is a genius. But if you judge a fish by 
 
 - Listen to the smallest voice before paying attention to the loudest voice.
 
-Example: If a content creator blackmails and destroys the life of an innocent victim with no social media presence, any attempt the victim could make to prove themselves innocent will be overshadowed by the words of the content creator. If the smallest voice was listened to first, then the issue would've been solved very quickly.
+If a widely-known influencer creates blackmail and destroys the life of an innocent victim with no social media presence, any attempt the victim could make to prove themselves innocent will be overshadowed by the words of the content creator. If the smallest voice was listened to first, then the issue would've been solved very quickly.
 
 - Admitting you're wrong shows strength, except if you're not wrong, which shows weakness.
 
-Example: 
+Always do your own research into whether or not you have any reason to apologize for something that people are telling you to apologize for.  You could be correct or incorrect, but it's always good to check first.
 
 - Closed source projects are real and common, and there's nothing wrong with them, however "closed-source preservation" is a term coined by hoarders to justify their morally-incorrect mindset.
 
-Example: BetaArchive stores beta builds of video games, however it only grants download access if you provide a dump of software so incredibly specific that no one beyond a meager few will ever get access, therefore the entire site is immoral, only exists to hoard data, and has not earned the title of "preservation community". 
+BetaArchive stores development builds of video games, however it only grants download access if you provide a dump of software so incredibly specific that no one beyond a meager few will ever get access, and it has a group of people dedicated to attacking anyone who complains about it being hard to access, therefore the entire site is immoral, only exists to hoard data, and has rightfully earned the title of "hoarding community". 
 
 - Game developers should ALWAYS drink their consistence-tea to avoid silly development choices that hinder future development.
 
-Example: 
+If another developer on your team has already programmed a function you're also trying to program, use their programming instead of writing your own in a completely different way, especially if there's no gain or consequence for doing so.  This will help other developers on your project be able to tell what's going on, as well as making the lives of consumers easier post-release.
 
 - Anyone who says "It'll get better" to someone with depression should not be talking to people with depression.
 
