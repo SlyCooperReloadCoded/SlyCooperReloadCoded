@@ -38,7 +38,7 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - Interpreting a person's words before interpreting their intent has disasterous results.
 - Treat others the way you want to be treated.
 - Facts and truths by definition cannot be offensive, since offense is rooted in opinion.
-- Ignorance only equals compliance or agreement if sufficient evidence proves you're in the wrong.
+- Ignorance only equals compliance or agreement if you're actively involved.
 - Judge a person by what they CAN do, not what they CAN'T or DON'T do.
 - Listen to the smallest voice before paying attention to the loudest voice.
 - The best liar you know is not the best liar you know.
