@@ -34,16 +34,53 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 **My advice:**
 
 - Functional humans don't use artificial intelligence as a replacement for literacy skills or other basic brain capabilities.
+
+Example: Using ChatGPT to correct spelling mistakes in a school paper you've written is okay, but asking ChatGPT to generate an essay for a school assignment is not okay.
+
 - Facts don't care about your feelings.
+
+Example: Flat-Earthers feel insulted when people call the Earth "round", often attacking others because of this, but this does not disprove that the Earth is round.
+
 - Interpreting a person's words before interpreting their intent has disasterous results.
+
+Example: 
+
 - Treat others the way you want to be treated.
+
+Example: Don't tell someone they're unattractive if you don't want to be told that you're unattractive.
+
 - Facts and truths by definition cannot be offensive, since offense is rooted in opinion.
+
+Example: People in power got World War II removed from teaching material in schools because they thought it was offensive.  History is factual and did happen, yet sensitive events were treated as opinionated.
+
 - Ignorance only equals compliance or agreement if you're actively involved.
+
+Not wanting politics showing up on your social media feeds does not mean you actively despise your country's government and/or encourage its wrongdoing, however if you're a government official, then you likely do.
+
 - Judge a person by what they CAN do, not what they CAN'T or DON'T do.
+
+As Albert Einstein once said, "Everyone is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid."
+
 - Listen to the smallest voice before paying attention to the loudest voice.
-- The best liar you know is not the best liar you know.
+
+Example: If a content creator blackmails and destroys the life of an innocent victim with no social media presence, any attempt the victim could make to prove themselves innocent will be overshadowed by the words of the content creator. If the smallest voice was listened to first, then the issue would've been solved very quickly.
+
 - Admitting you're wrong shows strength, except if you're not wrong, which shows weakness.
+
+Example: 
+
 - Closed source projects are real and common, and there's nothing wrong with them, however "closed-source preservation" is a term coined by hoarders to justify their morally-incorrect mindset.
-- Game developers should ALWAYS drink their consistence-tea to avoid silly development choices that hinder others' progress.
+
+Example: BetaArchive stores beta builds of video games, however it only grants download access if you provide a dump of software so incredibly specific that no one beyond a meager few will ever get access, therefore the entire site is immoral, only exists to hoard data, and has not earned the title of "preservation community". 
+
+- Game developers should ALWAYS drink their consistence-tea to avoid silly development choices that hinder future development.
+
+Example: 
+
 - Anyone who says "It'll get better" to someone with depression should not be talking to people with depression.
+
+This is an easy way to spot an untrained therapist or counselor, especially in education systems.
+
 - Some people don't have a purpose in life and were meant to fail, and there's nothing wrong with that.
+
+If success was available to every living human being, then failure would be meaningless. It's not meaningless, proving that this point is correct.
