@@ -35,15 +35,15 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 
 - Functional humans don't use artificial intelligence as a replacement for literacy skills or other basic brain capabilities.
 
-Example: Using ChatGPT to correct spelling mistakes in a school paper you've written is okay, but asking ChatGPT to generate an essay for a school assignment is not okay.
+Using ChatGPT to correct spelling mistakes in a school paper you've written is okay, but asking ChatGPT to generate an essay for a school assignment is not okay.
 
 - Facts don't care about your feelings.
 
-Example: Flat-Earthers feel insulted when people call the Earth "round", often attacking others because of this, but this does not disprove that the Earth is round.
+Flat-Earthers feel insulted when people call the Earth "round", often attacking others because of this, but this does not disprove that the Earth is round.
 
 - Interpreting a person's words before interpreting their intent has disasterous results.
 
-Example: 
+I've had my words interprteted before my intentions many, many times.  Trust me, it gets nasty.  Don't do it.
 
 - Treat others the way you want to be treated.
 
