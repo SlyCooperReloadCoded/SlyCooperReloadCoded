@@ -26,10 +26,6 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - SSX 3 full non-demo pre-alpha build, the one that was cut down to create the pre-alpha demo
 - Star Wars: Starfighter E3 build (a.k.a. Star Wars Episode I: Starfighter)
 - Toxic Grind early trailer build, the one with Cave Dwellings and possibly the test levels
-- Enough money for a new gaming PC with ALL the bells and whistles so I'm not always 3 technology generations behind
-- A romantic partner (if you're still a virgin when you turn 30, [you become a wizard](https://youtu.be/qRWgfbCm5ho?t=95), and that doesn't interest me)
-- Actual bottled cherry Shirley Temple product sold on store shelves, one that can't be discontinued
-- Destination Home staff releasing what they've hoarded, making a fully-transparent public apology admitting all wrongdoings, stepping down, and letting their community elect new staff
 
 **My wishes:**
 
