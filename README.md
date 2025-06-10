@@ -19,7 +19,7 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - Breaking and Entering (formerly known as Map Mastery), a game mod series for the first three Sly Cooper games, aiming to allow re-entry of all interiors and remove dangers such as security lasers, damage planes, water, spotlights, etc.
 - [Ultimate SSX Iceberg](https://icebergcharts.com/i/Ultimate_SSX), [Ultimate Star Wars: Starfighter Iceberg](https://icebergcharts.com/i/Ultimate_Star_Wars_Starfighter), and the [Jonny Moseley Mad Trix Iceberg](https://icebergcharts.com/i/Jonny_Moseley_Mad_Trix)
 
-**My wishes:**
+**My dream game prototype leaks:**
 
 - Jonny Moseley Mad Trix IGN beta build and/or full retail source code
 - A debug-enabled Sly 2 build with the Monaco level in it, even if that's the only level
@@ -31,11 +31,19 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - Actual bottled cherry Shirley Temple product sold on store shelves, one that can't be discontinued
 - Destination Home staff releasing what they've hoarded, making a fully-transparent public apology admitting all wrongdoings, stepping down, and letting their community elect new staff
 
+**My wishes:**
+
+- The Jonny Moseley Mad Trix speedrunning scene exploding with activity, people constantly finding new strats and useful glitches, dedicated reverse-engineering team
+- Enough money for a new gaming PC with ALL the bells and whistles so I'm not always 3 technology generations behind
+- A romantic partner (if you're still a virgin when you turn 30, [you become a wizard](https://youtu.be/qRWgfbCm5ho?t=95), and my time is running out)
+- Actual bottled cherry Shirley Temple product sold on store shelves, one that can't be discontinued, and not a drink that's flavored like Shirley Temple (i.e. the recent 7-Up flavor)
+- Destination Home staff releasing what they've hoarded, making a fully-transparent public apology admitting all wrongdoings, stepping down, and letting their community elect new staff
+
 **My advice:**
 
 - Functional humans don't use artificial intelligence as a replacement for literacy skills or other basic brain capabilities.
 
-Using ChatGPT to correct spelling mistakes in a school paper you've written is okay, but asking ChatGPT to generate an essay for a school assignment is not okay.
+Using ChatGPT to correct spelling mistakes in a school paper you've written is okay, but asking ChatGPT to generate that paper from a prompt is not okay.
 
 - Facts don't care about your feelings.
 
@@ -75,7 +83,7 @@ BetaArchive stores development builds of video games, however it only grants dow
 
 - Game developers should ALWAYS drink their consistence-tea to avoid silly development choices that hinder future development.
 
-If another developer on your team has already programmed a function you're also trying to program, use their programming instead of writing your own in a completely different way, especially if there's no gain or consequence for doing so.  This will help other developers on your project be able to tell what's going on, as well as making the lives of consumers easier post-release.
+If another developer on your team has already programmed a function you're also trying to program, use their programming instead of writing your own in a completely different way, especially if there's no gain for doing so.  This will help other developers on your project be able to tell what's going on, as well as making the lives of consumers easier post-release.
 
 - Anyone who says "It'll get better" to someone with depression should not be talking to people with depression.
 
