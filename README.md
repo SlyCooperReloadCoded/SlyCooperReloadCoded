@@ -12,10 +12,10 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 - Creating a [modding scene](https://discord.gg/vCwqfSzrr9) for the Star Wars: Starfighter game franchise
 - Rediscovered and [properly documented](https://www.youtube.com/watch?v=RSXAPz7SmIs) an easter egg in Star Wars: Starfighter previously only documented on ancient forums that no longer exist
 - Created the [SSX Sound Pack](https://gist.github.com/SlyCooperReloadCoded/b89a1e4ae346c75ffba0e92b608b9f01), a resource containing every music track, voice line, and sound effect from every game in the SSX franchise, available in lossless FLAC, started due to the only resource behing low-quality game recordings
+- *[Home's Foundations](https://gist.github.com/SlyCooperReloadCoded/6fcf2b07e9fce62aeedd0bd8b2bd1df9)*, a source of unbiased truth relating to any and all past controversey and danger in the PlayStation Home revival scene, often censored and/or suppressed due to its accuracy
 
 **My current projects:**
 
-- *[Home's Foundations](https://gist.github.com/SlyCooperReloadCoded/6fcf2b07e9fce62aeedd0bd8b2bd1df9)*, an ever-expanding source of unbiased truth relating to any and all controversey and danger in the PlayStation Home revival scene, often censored and/or suppressed due to its accuracy
 - Breaking and Entering (formerly known as Map Mastery), a game mod series for the first three Sly Cooper games, aiming to allow re-entry of all interiors and remove dangers such as security lasers, damage planes, water, spotlights, etc.
 - [Ultimate SSX Iceberg](https://icebergcharts.com/i/Ultimate_SSX), [Ultimate Star Wars: Starfighter Iceberg](https://icebergcharts.com/i/Ultimate_Star_Wars_Starfighter), and the [Jonny Moseley Mad Trix Iceberg](https://icebergcharts.com/i/Jonny_Moseley_Mad_Trix)
 
