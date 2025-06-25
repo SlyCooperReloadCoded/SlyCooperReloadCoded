@@ -4,7 +4,7 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 
 **My accomplishments:**
 
-- Creating (but certainly not running or largely contributing to) the [SSX modding community](https://discord.gg/Qkn3NPKZGu
+- Creating the [SSX modding community](https://discord.gg/Qkn3NPKZGu
 ), something I didn't know I did until the most prominent modder said he joined because of my modding showcase video
 - Creating a [speedrunning scene](https://discord.gg/aHA8DTyuNZ) for the obscure and underappreciated PlayStation 2 game known as Jonny Moseley Mad Trix
 - Finding [new cheat codes](https://youtu.be/9EXoN8oh_4Y?t=1151) in an original Xbox game known as Toxic Grind
