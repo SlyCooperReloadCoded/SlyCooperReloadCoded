@@ -31,26 +31,15 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 
 - The Jonny Moseley Mad Trix speedrunning scene exploding with activity, people constantly finding new strats and useful glitches, dedicated reverse-engineering team
 - Enough money for a new gaming PC with ALL the bells and whistles so I'm not always 3 technology generations behind
-- A romantic partner (if you're still a virgin when you turn 30, [you become a wizard](https://youtu.be/qRWgfbCm5ho?t=95), and my time is running out)
-- Actual bottled cherry Shirley Temple product sold on store shelves, one that can't be discontinued, and not a drink that's flavored like Shirley Temple (i.e. the recent 7-Up flavor)
-- Destination Home staff releasing what they've hoarded, making a fully-transparent public apology admitting all wrongdoings, stepping down, and letting their community elect new staff
+- A romantic partner
 
 **My advice:**
 
-- Facts don't care about your feelings.
-
+- No, you DON'T know what they're going through.
 - Interpreting a person's words before their intent has disasterous results.
-
-- Treat others the way you want to be treated.
-
-- Ignorance only equals compliance or agreement if you're actively involved.
-
+- Ignorance only equals compliance or agreement if you're being accused of something and you're in the wrong.
 - Judge a person by what they CAN do, not what they CAN'T do.
-
 - The victim has a hard time defending themselves, while the guilty does not.
-
-- Admitting you're wrong shows strength, but only if you're actually wrong.
-
-- Giving positive encouragement to people too depressed to process it isn't as effective as people realize, since it's often interpreted as pity.
-
-- If everyone was successful, no one would be successful.
+- Admitting you're wrong shows strength, but only if you are wrong.
+- People too depressed to process positive encouragement interpret it as pity, but that doesn't mean you shouldn't do anything to help.
+- Success is a goal, not a guarantee.
