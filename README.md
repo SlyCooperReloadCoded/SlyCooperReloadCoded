@@ -37,11 +37,9 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 
 **My advice:**
 
-- Generative AI can only produce from what it is given, therefore it is not a suitable replacement for any human task.
-
 - Facts don't care about your feelings.
 
-- Interpreting a person's words before interpreting their intent has disasterous results.
+- Interpreting a person's words before their intent has disasterous results.
 
 - Treat others the way you want to be treated.
 
@@ -49,12 +47,10 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 
 - Judge a person by what they CAN do, not what they CAN'T do.
 
-- Victims cannot defend themselves, but the guilty can.
+- The victim has a hard time defending themselves, while the guilty does not.
 
-- Admitting you're wrong shows strength, except if you're not wrong, which shows weakness.
+- Admitting you're wrong shows strength, but only if you're actually wrong.
 
-- Closed source software development projects are real and common, however "closed-source preservation" is a term coined by hoarders to justify their morally-incorrect mindset.
+- Giving positive encouragement to people too depressed to process it isn't as effective as people realize, since it's often interpreted as pity.
 
-- Anyone who says "It'll get better" to someone with depression should not be talking to people with depression. Giving positive encouragement to people too depressed to process it isn't as effective as people realize, often being interpreted as pity.
-
-- Some people don't have a purpose in life and were meant to fail, and there's nothing wrong with that. If everyone was successful, no one would be successful.
+- If everyone was successful, no one would be successful.
