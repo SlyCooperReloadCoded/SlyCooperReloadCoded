@@ -37,54 +37,24 @@ I'm SlyCooperReloadCoded, a 27-year-old game reverse-engineer and preservationis
 
 **My advice:**
 
-- Functional humans don't use artificial intelligence as a replacement for literacy skills or other basic brain capabilities.
-
-Using ChatGPT to correct spelling mistakes in a school paper you've written is okay, but asking ChatGPT to generate that paper from a prompt is not okay.
+- Generative AI can only produce from what it is given, therefore it is not a suitable replacement for any human task.
 
 - Facts don't care about your feelings.
 
-Flat-Earthers feel insulted when people call the Earth "round", often attacking others because of this, but this does not disprove that the Earth is round.
-
 - Interpreting a person's words before interpreting their intent has disasterous results.
-
-I've had my words interprteted before my intentions many, many times.  Trust me, it gets nasty.  Don't do it.
 
 - Treat others the way you want to be treated.
 
-Don't tell someone they're stupid if you don't want to be told that you're stupid.
-
-- Facts and truths by definition cannot be offensive, since offense is rooted in opinion.
-
-History is factual and did happen, even during pre-human times where the entire concept of offense did not exist, such as the Prehistoric Era.  The dinosaurs could not try and alter documentation of events, so you also should not.
-
 - Ignorance only equals compliance or agreement if you're actively involved.
 
-Not wanting politics showing up on your social media feeds does not mean you actively despise your country's government and/or encourage its wrongdoing, however if you're a government official, then you likely do.
+- Judge a person by what they CAN do, not what they CAN'T do.
 
-- Judge a person by what they CAN do, not what they CAN'T or DON'T do.
-
-As Albert Einstein once said, "Everyone is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid."
-
-- Listen to the smallest voice before paying attention to the loudest voice.
-
-If a widely-known influencer creates blackmail and destroys the life of an innocent victim with no social media presence, any attempt the victim could make to prove themselves innocent will be overshadowed by the words of the content creator. If the smallest voice was listened to first, then the issue would've been solved very quickly.
+- Victims cannot defend themselves, but the guilty can.
 
 - Admitting you're wrong shows strength, except if you're not wrong, which shows weakness.
 
-Always do your own research into whether or not you have any reason to apologize for something that people are telling you to apologize for.  You could be correct or incorrect, but it's always good to check first.
+- Closed source software development projects are real and common, however "closed-source preservation" is a term coined by hoarders to justify their morally-incorrect mindset.
 
-- Closed source projects are real and common, and there's nothing wrong with them, however "closed-source preservation" is a term coined by hoarders to justify their morally-incorrect mindset.
+- Anyone who says "It'll get better" to someone with depression should not be talking to people with depression. Giving positive encouragement to people too depressed to process it isn't as effective as people realize, often being interpreted as pity.
 
-BetaArchive stores development builds of video games, however it only grants download access if you provide a dump of software so incredibly specific that no one beyond a meager few will ever get access, and it has a group of people dedicated to attacking anyone who complains about it being hard to access, therefore the entire site is immoral, only exists to hoard data, and has rightfully earned the title of "hoarding community". 
-
-- Game developers should ALWAYS drink their consistence-tea to avoid silly development choices that hinder future development.
-
-If another developer on your team has already programmed a function you're also trying to program, use their programming instead of writing your own in a completely different way, especially if there's no gain for doing so.  This will help other developers on your project be able to tell what's going on, as well as making the lives of consumers easier post-release.
-
-- Anyone who says "It'll get better" to someone with depression should not be talking to people with depression.
-
-This is an easy way to spot an untrained therapist or counselor, especially in education systems.
-
-- Some people don't have a purpose in life and were meant to fail, and there's nothing wrong with that.
-
-If success was available to every living human being, then failure would be meaningless. It's not meaningless, proving that this point is correct.
+- Some people don't have a purpose in life and were meant to fail, and there's nothing wrong with that. If everyone was successful, no one would be successful.
