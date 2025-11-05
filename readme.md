@@ -15,7 +15,6 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **My current projects:**
 
-- Put Down the Popcorn, a scripting mod for Sly 2: Band of Thieves which cuts out all the fluff (cutscenes, unnecessary waiting, etc) while not touching anything that affects gameplay, keeping your hands on the controller as much as possible.
 - [Ultimate SSX Iceberg](https://icebergcharts.com/i/Ultimate_SSX), [Ultimate Star Wars: Starfighter Iceberg](https://icebergcharts.com/i/Ultimate_Star_Wars_Starfighter), and the [Jonny Moseley Mad Trix Iceberg](https://icebergcharts.com/i/Jonny_Moseley_Mad_Trix)
 
 **My on-hiatus projects:**
