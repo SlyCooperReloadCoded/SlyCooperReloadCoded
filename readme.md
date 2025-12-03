@@ -15,7 +15,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **My current projects:**
 
-- [Ultimate SSX Iceberg](https://icebergcharts.com/i/Ultimate_SSX), [Ultimate Star Wars: Starfighter Iceberg](https://icebergcharts.com/i/Ultimate_Star_Wars_Starfighter), and the [Jonny Moseley Mad Trix Iceberg](https://icebergcharts.com/i/Jonny_Moseley_Mad_Trix)
+- My second job, which will likely take up most of my time
 
 **My on-hiatus projects:**
 
