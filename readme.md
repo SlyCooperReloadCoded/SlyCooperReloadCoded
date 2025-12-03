@@ -6,7 +6,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 - Creating the [SSX modding community](https://discord.gg/Qkn3NPKZGu), something I didn't know I did until the most prominent modder said he joined because of my modding showcase video
 - Creating a [speedrunning scene](https://discord.gg/aHA8DTyuNZ) for the obscure and underappreciated PlayStation 2 game known as Jonny Moseley Mad Trix
-- Finding [new cheat codes](https://youtu.be/9EXoN8oh_4Y?t=1151) in an original Xbox game known as Toxic Grind
+- Finding [new cheat codes](https://youtu.be/9EXoN8oh_4Y?t=1153) in an original Xbox game known as Toxic Grind
 - Being one of two people to reverse-engineer an obscure title known as Rolling to make it fully completable, as some content was locked behind a [secret area](https://www.youtube.com/watch?v=Ogu1ha7FNBY) no one outside of an early 2000s French THPS IRC channel knew about
 - Creating a [modding scene](https://discord.gg/vCwqfSzrr9) for the Star Wars: Starfighter game franchise
 - Rediscovered and [properly documented](https://www.youtube.com/watch?v=RSXAPz7SmIs) an easter egg in Star Wars: Starfighter previously only documented in [Star Wars Gamer magazine issue 4](https://drive.google.com/file/d/1ynrcDlH9-l6rsty9u5WzH5zMzMCasv0Q/view?usp=sharing)
