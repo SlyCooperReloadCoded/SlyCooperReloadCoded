@@ -25,7 +25,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **My dream game software leaks:**
 
-- [Jonny Moseley Mad Trix IGN beta build](https://www.prototopia.net/threads/jonny-moseley-mad-trix-playstation-2-ign-build.4517/) and/or full retail source code
+- [Jonny Moseley Mad Trix IGN beta build](https://gist.github.com/SlyCooperReloadCoded/c4a69e62c14dddeeb8c59e27b43c89ca) and/or full retail source code
 - A debug-enabled Sly 2 build with the Monaco level in it, even if that's the only level
 - SSX 3 full non-demo pre-alpha build, the one that was cut down to create the pre-alpha demo
 - Star Wars: Starfighter E3 build (a.k.a. Star Wars Episode I: Starfighter)
