@@ -1,6 +1,10 @@
 ## Welcome to my little corner of GitHub!
 
-I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationist who's always taking on new challenges and trying to make a difference in society, one byte at a time!
+I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationist who's always taking on new challenges and overwhelming myself in the process!
+
+**The word:**
+
+Putting in effort is far more valuable than accomplishing something, even if you never accomplish what you set out to do.
 
 **My accomplishments:**
 
