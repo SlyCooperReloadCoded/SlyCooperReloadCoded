@@ -4,7 +4,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **The word:**
 
-Putting in effort is far more valuable than accomplishing something, even if you never accomplish what you set out to do.
+Cue sandwich violence.
 
 **My accomplishments:**
 
@@ -19,7 +19,7 @@ Putting in effort is far more valuable than accomplishing something, even if you
 
 **My current projects:**
 
-- My second job, which will likely take up most of my time
+- Life
 
 **My on-hiatus projects:**
 
