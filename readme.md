@@ -4,7 +4,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **The word:**
 
-Cue sandwich violence.
+Man, do I like me some Legos.
 
 **My accomplishments:**
 
