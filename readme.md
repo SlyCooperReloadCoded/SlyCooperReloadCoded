@@ -4,7 +4,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **The word:**
 
-Man, do I like me some Legos.
+I would be the smartest man if I was invisible.
 
 **My accomplishments:**
 
@@ -19,7 +19,7 @@ Man, do I like me some Legos.
 
 **My current projects:**
 
-- Life
+- A super secret project that's going to blow your mind when you see it
 
 **My on-hiatus projects:**
 
