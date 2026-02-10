@@ -4,7 +4,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **The word:**
 
-I would be the smartest man if I was invisible.
+Just let ol' Murcules at that sign and it'll be up and running in no time!
 
 **My accomplishments:**
 
