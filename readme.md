@@ -4,7 +4,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **The word:**
 
-Just let ol' Murcules at that sign and it'll be up and running in no time!
+"I dunno! It's a bunch-a shit!"
 
 **My accomplishments:**
 
@@ -20,13 +20,14 @@ Just let ol' Murcules at that sign and it'll be up and running in no time!
 
 **My current projects:**
 
+- The [Ultimate SSX Iceberg](https://icebergthreads.com/iceberg/IYLkML9Kc8rapTc2t1GM), which has found new life on Iceberg Threads
 - A super secret project that's going to blow your mind when you see it
 
 **My on-hiatus projects:**
 
-- [Breaking and Entering](https://slymods.info/wiki/Mod:Breaking_and_Entering) (formerly known as Map Mastery), a game mod series for the first three Sly Cooper games, but only Sly 2 and 3 having finished versions. The mods aimito allow re-entry of all interiors and remove dangers such as security lasers, damage planes, water, spotlights, etc. Very messy, not in CLPS2C patch format, and will greatly benefit from new advancements in game script creation. It'll have to be remade from scratch. The Sly 1 version is still in a very early prototyping phase and I'm likely not going to continue developing it.
+- [Breaking and Entering](https://slymods.info/wiki/Mod:Breaking_and_Entering) (formerly known as Map Mastery), a game mod series for the first three Sly Cooper games, but only Sly 2 and 3 having finished versions. The mods aimito allow re-entry of all interiors and remove dangers such as security lasers, damage planes, water, spotlights, etc. Sly 1 version is very likely going to stay just a concept, and the Sly 3 version is as complete as it needs to be. The Sly 2 version is probably going to be remade from the ground up due to major modding advancements.
 - [LOD Fixer](https://www.youtube.com/watch?v=JLdY6UOnTsM), a mod for Sly 2 which increases the draw distance of larger map meshes to match the infinite draw distance of the rest of the map, fixing gaping holes that appear often too close to the player. This is a very difficult mod to make, it can't be automated, and there's no easy way to visualize changes. It's also not in CLPS2C format.
-- [Normal Platformer](https://www.youtube.com/watch?v=cvgtuIilh0I), a mod for Sly 2 which removes all Thief Move interacts except where it's completely impossible to progress, and creates new paths where possible. Likely not possible to make memory-shift compatible, isn't in CLPS2C format, is pretty messy, and will probably have to be remade/modified as an addon for [Put Down the Popcorn](https://www.youtube.com/watch?v=-t1HNJv9g_0).
+- [Normal Platformer](https://www.youtube.com/watch?v=cvgtuIilh0I), a mod for Sly 2 which removes all Thief Move interacts except where it's completely impossible to progress, and creates new paths where possible. Likely not possible to make memory-shift compatible, isn't in CLPS2C format, is pretty messy, and will probably have to be remade as an addon for [Put Down the Popcorn](https://www.youtube.com/watch?v=-t1HNJv9g_0).
 
 **My dream game software leaks:**
 
