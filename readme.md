@@ -4,7 +4,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **The word:**
 
-"I dunno! It's a bunch-a shit!"
+https://www.youtube.com/watch?v=e2qY8JtjJag&t=812s
 
 **My accomplishments:**
 
