@@ -12,7 +12,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 - Founding the [SSX modding community](https://discord.gg/Qkn3NPKZGu), something I didn't know I did until the most prominent modder said he joined because of my modding showcase video
 - Creating a [speedrunning scene](https://discord.gg/aHA8DTyuNZ) for the obscure and underappreciated PlayStation 2 game known as Jonny Moseley Mad Trix
 - Finding [new cheat codes](https://youtu.be/9EXoN8oh_4Y?t=1153) in an original Xbox game known as Toxic Grind
-- Being one of two people to reverse-engineer an obscure title known as Rolling to make it fully completable, as some content was locked behind a [secret area](https://www.youtube.com/watch?v=Ogu1ha7FNBY) no one outside of an early 2000s French THPS IRC channel knew about
+- Being one of two people to reverse-engineer an obscure title known as Rolling to make it fully completable, as some content was locked behind a [secret area](https://www.youtube.com/watch?v=Ogu1ha7FNBY) no one outside of an early 2000s French THPS IRC channel (supposedly) knew about
 - Creating a [modding scene](https://discord.gg/vCwqfSzrr9) for the Star Wars: Starfighter game franchise
 - Rediscovered and [properly documented](https://www.youtube.com/watch?v=RSXAPz7SmIs) an easter egg in Star Wars: Starfighter previously only documented in [Star Wars Gamer magazine issue 4](https://drive.google.com/file/d/1ynrcDlH9-l6rsty9u5WzH5zMzMCasv0Q/view?usp=sharing)
 - Created the [SSX Sound Pack](https://gist.github.com/SlyCooperReloadCoded/b89a1e4ae346c75ffba0e92b608b9f01), a resource containing every music track, voice line, and sound effect from every game in the SSX franchise, available in lossless FLAC, started due to the only resource behing low-quality game recordings
@@ -21,11 +21,11 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 **My current projects:**
 
 - The [Ultimate SSX Iceberg](https://icebergthreads.com/iceberg/IYLkML9Kc8rapTc2t1GM), which has found new life on Iceberg Threads
-- [Picking Up the Pieces](https://youtu.be/7J8RDph_SiQ?t=280), the world's first custom (concept) job for Sly 2, fueled by scripting research.
+- [Picking Up the Pieces](https://youtu.be/7J8RDph_SiQ?t=280), the world's first custom (concept) job for Sly 2, fueled by scripting research
 
 **My on-hiatus projects:**
 
-- [Breaking and Entering](https://slymods.info/wiki/Mod:Breaking_and_Entering) (formerly known as Map Mastery), a game mod series for the first three Sly Cooper games, but only Sly 2 and 3 having finished versions. The mods aimito allow re-entry of all interiors and remove dangers such as security lasers, damage planes, water, spotlights, etc. Sly 1 version is very likely going to stay just a concept, and the Sly 3 version is as complete as it needs to be. The Sly 2 version is probably going to be remade from the ground up due to major modding advancements.
+- [Breaking and Entering](https://slymods.info/wiki/Mod:Breaking_and_Entering) (formerly known as Map Mastery), a game mod series for the first three Sly Cooper games, but only Sly 2 and 3 having finished versions. The mods aim ito allow re-entry of all interiors and remove dangers such as security lasers, damage planes, water, spotlights, etc. Sly 1 version is very likely going to stay just a concept, and the Sly 3 version is as complete as it needs to be. The Sly 2 version is probably going to be remade from the ground up due to SEQ scripting advancements.
 - [LOD Fixer](https://www.youtube.com/watch?v=JLdY6UOnTsM), a mod for Sly 2 which increases the draw distance of larger map meshes to match the infinite draw distance of the rest of the map, fixing gaping holes that appear often too close to the player. This is a very difficult mod to make, it can't be automated, and there's no easy way to visualize changes. It's also not in CLPS2C format.
 - [Normal Platformer](https://www.youtube.com/watch?v=cvgtuIilh0I), a mod for Sly 2 which removes all Thief Move interacts except where it's completely impossible to progress, and creates new paths where possible. Likely not possible to make memory-shift compatible, isn't in CLPS2C format, is pretty messy, and will probably have to be remade as an addon for [Put Down the Popcorn](https://www.youtube.com/watch?v=-t1HNJv9g_0).
 
@@ -35,4 +35,4 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 - Fully unstripped debug-enabled Sly 2/3 builds with full debug symbols and linker maps
 - SSX 3 full non-demo pre-alpha build, the one that was cut down to create the pre-alpha demo
 - Star Wars: Starfighter E3 build (a.k.a. Star Wars Episode I: Starfighter)
-- Toxic Grind early trailer build, the one with Cave Dwellings and possibly the test levels
+- Toxic Grind early trailer build, the one with Cave Dwellings, Coliseum, and possibly the test levels
