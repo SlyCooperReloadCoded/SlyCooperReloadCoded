@@ -21,7 +21,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 **My current projects:**
 
 - The [Ultimate SSX Iceberg](https://icebergthreads.com/iceberg/IYLkML9Kc8rapTc2t1GM), which has found new life on Iceberg Threads
-- A super secret project that's going to blow your mind when you see it
+- [Picking Up the Pieces](https://youtu.be/7J8RDph_SiQ?t=280), the world's first custom (concept) job for Sly 2, fueled by scripting research.
 
 **My on-hiatus projects:**
 
