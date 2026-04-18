@@ -4,7 +4,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **The word:**
 
-"If I had around 6 - 7 hours and access to building materials, I could surely manage at least a decent repair, however time is not on our side."
+"If I had around 7 - 8 hours and access to building materials, I could surely manage at least a decent repair, however time is not on our side."
 
 **My accomplishments:**
 
