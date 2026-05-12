@@ -32,7 +32,20 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 **My dream game software leaks:**
 
 - [Jonny Moseley Mad Trix IGN beta build](https://gist.github.com/SlyCooperReloadCoded/c4a69e62c14dddeeb8c59e27b43c89ca) and/or full retail source code
-- Fully unstripped debug-enabled Sly 2/3 builds with full debug symbols and linker maps
-- SSX 3 full non-demo pre-alpha build, the one that was cut down to create the pre-alpha demo
+- Rolling GameCube build (assuming it exists)
+- Fully unstripped, debug-enabled Sly 2/3 builds with full debug symbols and linker maps
+- SSX (2000) early build with Ramstein Blitzschlag and Big Air Dome tracks present
+- The SSX Tricky beta that was [sold on AssemblerGames by Diablodin](https://imgur.com/a/YrCuBTM) whcih went to an anonymous buyer who never dumped or uploaded it
+- SSX 3 full, non-demo, debug-enable pre-alpha build, the one that was cut down to create the pre-alpha demo (multiple very early builds were sent to every media publication to ever exist, yet none have leaked)
 - Star Wars: Starfighter E3 build (a.k.a. Star Wars Episode I: Starfighter)
+- Dark Summit (PS2/GC/Xbox) early builds (there is an E3 prototype for Xbox, but it needs a devkit to run, PC executable exists but it's missing a DLL or twow)
+- Star Wars Battlefront III PC build (people know it exists, but it's in the hands of people who won't share it)
+- Debug-enabled builds of Star Wars: Rogue Squadron 2 and 3 (plus the cancelled Wii remake build that was shown off by IGN)
+- Crimson Skies: High Road to Revenge E3 build (Catalina/Casino levels must be present)
 - Toxic Grind early trailer build, the one with Cave Dwellings, Coliseum, and possibly the test levels
+- Debug-enabled Dave Mirra Freestyle BMX 3 build (eventually became BMX XXX)
+- Just Cause 2 early PS3 prototypes (5+ months before release or older)
+- Debug-enabled/early Harry Potter and the Chamber of Secrets GameCube build(s)
+- Watch Dogs 2/Watch Dogs Legion E3 builds (the former must have Hollow Pundits present)
+- The contents of PlayStation Home's CDN the day before shutdown
+- Pitfall: The Lost Expedition early builds (debug-enabled/pogostilt present)
