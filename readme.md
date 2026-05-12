@@ -38,7 +38,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 - The SSX Tricky beta that was [sold on AssemblerGames by Diablodin](https://imgur.com/a/YrCuBTM) which went to an anonymous buyer who never dumped or uploaded it
 - SSX 3 full, non-demo, debug-enabled pre-alpha build, the one that was cut down to create the pre-alpha demo (multiple very early, clearly debug-enabled builds were sent to every media publication to ever exist, yet none have leaked over 20 years later)
 - Star Wars: Starfighter E3 build (a.k.a. Star Wars Episode I: Starfighter)
-- Dark Summit (PS2/GC/Xbox) early builds (there is an E3 prototype for Xbox, but it needs a devkit to run, PC executable exists but it's missing a DLL or twow)
+- Dark Summit (PS2/GC/Xbox) early builds (there is an E3 prototype for Xbox, but it needs a devkit to run, PC executable exists but it's missing a DLL or two)
 - Star Wars Battlefront III PC build (people know it exists, but it's in the hands of people who won't share it)
 - Debug-enabled builds of Star Wars: Rogue Squadron 2 and 3 (plus the cancelled Wii remake build that was shown off by IGN)
 - Crimson Skies: High Road to Revenge E3 build (Catalina/Casino levels must be present)
