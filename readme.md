@@ -17,10 +17,10 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 - Rediscovered and [properly documented](https://www.youtube.com/watch?v=RSXAPz7SmIs) an easter egg in Star Wars: Starfighter previously only documented in [Star Wars Gamer magazine issue 4](https://drive.google.com/file/d/1ynrcDlH9-l6rsty9u5WzH5zMzMCasv0Q/view?usp=sharing)
 - Created the [SSX Sound Pack](https://gist.github.com/SlyCooperReloadCoded/b89a1e4ae346c75ffba0e92b608b9f01), a resource containing every music track, voice line, and sound effect from every game in the SSX franchise, available in lossless FLAC, started due to the only resource behing low-quality game recordings
 - *[Home's Foundations](https://gist.github.com/SlyCooperReloadCoded/6fcf2b07e9fce62aeedd0bd8b2bd1df9)*, a source of unbiased truth relating to all past controversey and danger in the PlayStation Home revival scene, often censored and/or suppressed due to its accuracy
+- The [Ultimate SSX Iceberg](https://icebergthreads.com/iceberg/IYLkML9Kc8rapTc2t1GM), which has found new life on Iceberg Threads
 
 **My current projects:**
 
-- The [Ultimate SSX Iceberg](https://icebergthreads.com/iceberg/IYLkML9Kc8rapTc2t1GM), which has found new life on Iceberg Threads
 - [Picking Up the Pieces](https://youtu.be/7J8RDph_SiQ?t=280), the world's first custom (concept) job for Sly 2, fueled by scripting research
 
 **My on-hiatus projects:**
