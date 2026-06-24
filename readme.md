@@ -21,7 +21,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **My current projects:**
 
-- [LOD Fixer](https://www.youtube.com/watch?v=JLdY6UOnTsM), a mod for Sly 2 which increases the draw distance of larger map meshes to match the infinite draw distance of the rest of the map, fixing gaping holes that appear often too close to the player. This is a very difficult mod to make, it can't be automated, and there's no easy way to visualize changes, so it'll take a long while to complete.
+- [LOD Fixer](https://www.youtube.com/watch?v=JLdY6UOnTsM), a mod for Sly 2 which increases the draw distance of larger map meshes to match the infinite draw distance of the rest of the map, fixing gaping holes that appear often too close to the player. The creation of this mod can't be even slightly automated, so it'll take a long while to complete.
 - [Picking Up the Pieces](https://youtu.be/7J8RDph_SiQ?t=280), the world's first custom (concept) job for Sly 2, fueled by scripting research.
 
 **My on-hiatus projects:**
