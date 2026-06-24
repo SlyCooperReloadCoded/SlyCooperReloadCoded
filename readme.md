@@ -27,7 +27,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 **My on-hiatus projects:**
 
 - [Breaking and Entering](https://slymods.info/wiki/Mod:Breaking_and_Entering) (formerly known as Map Mastery), a game mod series for the first three Sly Cooper games, but only Sly 2 and 3 having finished versions. The mods aim ito allow re-entry of all interiors and remove dangers such as security lasers, damage planes, water, spotlights, etc. Sly 1 version is very likely going to stay just a concept, and the Sly 3 version is as complete as it needs to be. The Sly 2 version is probably going to be remade from the ground up due to SEQ scripting advancements.
-- [Normal Platformer](https://www.youtube.com/watch?v=cvgtuIilh0I), a mod for Sly 2 which removes all Thief Move interacts except where it's completely impossible to progress, and creates new paths where possible. Likely not possible to make memory-shift compatible, isn't in CLPS2C format, is pretty messy, and will probably have to be remade as an addon for [Put Down the Popcorn](https://www.youtube.com/watch?v=-t1HNJv9g_0).
+- [Normal Platformer](https://www.youtube.com/watch?v=cvgtuIilh0I), a mod for Sly 2 which removes all Thief Move interacts except where it's completely impossible to progress, and creates new paths where possible. Likely not possible to make memory-shift compatible, isn't in CLPS2C format, is pretty messy, and will probably have to be remade as an addon for [Put Down the Popcorn](https://slymods.info/wiki/Mod:Put_Down_the_Popcorn).
 
 **My dream game software leaks:**
 
