@@ -36,7 +36,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 - Fully unstripped, debug-enabled Sly 2/3 builds with full debug symbols and linker maps
 - SSX (2000) early build with Ramstein Blitzschlag and Big Air Dome tracks present
 - The dongle-protected SSX Tricky beta that was [sold on AssemblerGames by Diablodin](https://imgur.com/a/YrCuBTM) which went to an anonymous buyer who never dumped or uploaded it
-- SSX 3 full, non-demo, debug-enabled pre-alpha build, the one that was cut down to create the pre-alpha demo (multiple very early, clearly debug-enabled builds were sent to every media publication to ever exist, yet none have leaked over 20 years later)
+- SSX 3 full, non-demo, debug-enabled Pre-Alpha build, the one that was cut down to create the Pre-Alpha demo
 - Star Wars: Starfighter E3 build (a.k.a. Star Wars Episode I: Starfighter)
 - Dark Summit (PS2/GC/Xbox) early builds (there is an E3 prototype for Xbox, but it needs a devkit to run, PC executable exists but it's missing a DLL or two)
 - Star Wars Battlefront III PC build (people know it exists, but it's in the hands of people who won't share it)
