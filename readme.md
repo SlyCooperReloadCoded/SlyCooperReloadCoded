@@ -16,18 +16,13 @@ Neuralblast
 - Creating a [modding scene](https://discord.gg/vCwqfSzrr9) for the Star Wars: Starfighter game franchise
 - Rediscovered and [properly documented](https://www.youtube.com/watch?v=RSXAPz7SmIs) an easter egg in Star Wars: Starfighter previously only documented in [Star Wars Gamer magazine issue 4](https://drive.google.com/file/d/1ynrcDlH9-l6rsty9u5WzH5zMzMCasv0Q/view?usp=sharing)
 - Created the [SSX Sound Pack](https://gist.github.com/SlyCooperReloadCoded/b89a1e4ae346c75ffba0e92b608b9f01), a resource containing every music track, voice line, and sound effect from every game in the SSX franchise, available in lossless FLAC, started due to the only resource behing low-quality game recordings
-- *[Home's Foundations](https://gist.github.com/SlyCooperReloadCoded/6fcf2b07e9fce62aeedd0bd8b2bd1df9)*, a source of unbiased truth relating to all past controversey and danger in the PlayStation Home revival scene, often censored and/or suppressed due to its accuracy
 - The [Ultimate SSX Iceberg](https://icebergthreads.com/iceberg/IYLkML9Kc8rapTc2t1GM), which has found new life on Iceberg Threads
 
 **My current projects:**
 
-- [LOD Fixer](https://www.youtube.com/watch?v=JLdY6UOnTsM), a mod for Sly 2 which increases the draw distance of larger map meshes to match the infinite draw distance of the rest of the map, fixing gaping holes that appear often too close to the player. The creation of this mod can't be even slightly automated, so it'll take a long while to complete.
-- [Picking Up the Pieces](https://youtu.be/7J8RDph_SiQ?t=280), the world's first custom (concept) job for Sly 2, fueled by scripting research.
+Probably something Sly Cooper modding-related. You can check out my SlyMods wiki page here, which contains a summary of my work, as well as a bunch of obscure documentation:
 
-**My on-hiatus projects:**
-
-- [Breaking and Entering](https://slymods.info/wiki/Mod:Breaking_and_Entering) (formerly known as Map Mastery), a game mod series for the first three Sly Cooper games, but only Sly 2 and 3 having finished versions. The mods aim ito allow re-entry of all interiors and remove dangers such as security lasers, damage planes, water, spotlights, etc. Sly 1 version is very likely going to stay just a concept, and the Sly 3 version is as complete as it needs to be. The Sly 2 version is probably going to be remade from the ground up due to SEQ scripting advancements.
-- [Normal Platformer](https://www.youtube.com/watch?v=cvgtuIilh0I), a mod for Sly 2 which removes all Thief Move interacts except where it's completely impossible to progress, and creates new paths where possible. Likely not possible to make memory-shift compatible, isn't in CLPS2C format, is pretty messy, and will probably have to be remade as an addon for [Put Down the Popcorn](https://slymods.info/wiki/Mod:Put_Down_the_Popcorn).
+https://slymods.info/wiki/User:SlyCooperReloadCoded
 
 **My dream game software leaks:**
 
