@@ -4,7 +4,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **The word:**
 
-Neuralblast
+If it works for thee but not for me then it's hardcoded in C.
 
 **My accomplishments:**
 
@@ -31,9 +31,9 @@ https://slymods.info/wiki/User:SlyCooperReloadCoded
 - Fully unstripped, debug-enabled Sly 2/3 builds with full debug symbols and linker maps
 - SSX (2000) early build with Ramstein Blitzschlag and Big Air Dome tracks present
 - The dongle-protected SSX Tricky beta that was [sold on AssemblerGames by Diablodin](https://imgur.com/a/YrCuBTM) which went to an anonymous buyer who never dumped or uploaded it
-- SSX 3 full, non-demo, debug-enabled Pre-Alpha build, the one that was cut down to create the Pre-Alpha demo
+- SSX 3 full, non-demo, debug-enabled Pre-Alpha build, the one that was cut down to create the Pre-Alpha demo (we now have an [early build](https://hiddenpalace.org/SSX_3_(Jul_17,_2003_prototype)) slightly newer than the demo, so there's hope for this one)
 - Star Wars: Starfighter E3 build (a.k.a. Star Wars Episode I: Starfighter)
-- Dark Summit (PS2/GC/Xbox) early builds (there is an E3 prototype for Xbox, but it needs a devkit to run, PC executable exists but it's missing a DLL or two)
+- Dark Summit (PS2/GC/Xbox) early builds (there is an E3 prototype for Xbox, but it needs a devkit to run, PC executable exists but it's missing a DLL)
 - Star Wars Battlefront III PC build (people know it exists, but it's in the hands of people who won't share it)
 - Debug-enabled builds of Star Wars: Rogue Squadron 2 and 3 (plus the cancelled Wii remake build that was shown off by IGN)
 - Crimson Skies: High Road to Revenge E3 build (Catalina/Casino levels must be present)
@@ -41,6 +41,7 @@ https://slymods.info/wiki/User:SlyCooperReloadCoded
 - Debug-enabled Dave Mirra Freestyle BMX 3 build (eventually became BMX XXX)
 - Just Cause 2 early PS3 prototypes (5+ months before release or older)
 - Debug-enabled/early Harry Potter and the Chamber of Secrets GameCube build(s)
-- Watch Dogs 2/Watch Dogs Legion E3 builds (the former must have Hollow Pundits present)
+- Watch Dogs 2 E3 build with Hollow Pundits operation present
+- Watch Dogs Legion E3 build with Ian/Naomi storyline present
 - The contents of PlayStation Home's CDN the day before shutdown
 - Pitfall: The Lost Expedition early builds (debug-enabled/pogostilt present)
