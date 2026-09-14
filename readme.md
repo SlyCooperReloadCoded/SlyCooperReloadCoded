@@ -4,7 +4,7 @@ I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationis
 
 **The word:**
 
-If it works for thee but not for me then it's hardcoded in C.
+If something is extremely unusual, that means something in the world has to be extremely usual, but what the heck does "extremely usual" mean?
 
 **My accomplishments:**
 
