@@ -1,6 +1,6 @@
 ## Welcome to my little corner of GitHub!
 
-I'm SlyCooperReloadCoded, a 28-year-old game reverse-engineer and preservationist who's always taking on new challenges and overwhelming myself in the process!
+I'm SlyCooperReloadCoded, a 29-year-old game reverse-engineer and preservationist who's always taking on new challenges and overwhelming myself in the process!
 
 **The word:**
 
