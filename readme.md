@@ -27,7 +27,7 @@ https://slymods.info/wiki/User:SlyCooperReloadCoded
 **My dream game software leaks:**
 
 - [Jonny Moseley Mad Trix IGN beta build](https://gist.github.com/SlyCooperReloadCoded/c4a69e62c14dddeeb8c59e27b43c89ca) and/or full retail source code
-- Rolling GameCube build (assuming it exists)
+- Rolling GameCube build (assuming it exists, it would go by its original name of "SK8")
 - Fully unstripped, debug-enabled Sly 2/3 builds with full debug symbols and linker maps
 - SSX (2000) early build with Ramstein Blitzschlag and Big Air Dome tracks present
 - The dongle-protected SSX Tricky beta that was [sold on AssemblerGames by Diablodin](https://imgur.com/a/YrCuBTM) which went to an anonymous buyer who never dumped or uploaded it
