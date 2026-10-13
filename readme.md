@@ -9,7 +9,7 @@ If something is extremely unusual, that means something in the world has to be e
 **My accomplishments:**
 
 - Being one of several reverse-engineers who have mostly or completely documented groundbreaking data structures in Sly 2, such as [SEQ scripts](https://slymods.info/wiki/Sly_2:SEQ), [circle button interacts](https://slymods.info/wiki/User:SlyCooperReloadCoded/Circle_Button_Interacts), [entity gluing](https://www.youtube.com/watch?v=BAZa2ePFALg), and [damage planes](https://slymods.info/wiki/Sly_2:ZAP).
-- Founding the [SSX modding community](https://discord.gg/Qkn3NPKZGu), something I didn't know I did until the most prominent modder said he joined because of my modding showcase video
+- Founding the SSX modding community, something I didn't know I did until the most prominent modder said he joined because of my modding showcase video
 - Creating a [speedrunning scene](https://discord.gg/aHA8DTyuNZ) for the obscure and underappreciated PlayStation 2 game known as Jonny Moseley Mad Trix
 - Finding [new cheat codes](https://youtu.be/9EXoN8oh_4Y?t=1153) in an original Xbox game known as Toxic Grind
 - Being one of two people to reverse-engineer an obscure title known as Rolling to make it fully completable, as some content was locked behind a [secret area](https://www.youtube.com/watch?v=Ogu1ha7FNBY) no one outside of an early 2000s French THPS IRC channel (supposedly) knew about
