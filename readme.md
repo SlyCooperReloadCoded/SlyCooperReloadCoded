@@ -4,7 +4,7 @@ I'm SlyCooperReloadCoded, a 29-year-old game reverse-engineer and preservationis
 
 **The word:**
 
-If something is extremely unusual, that means something in the world has to be extremely usual, but what the heck does "extremely usual" mean?
+"Game modding, to some, is an art form. You just need some form... and some art."
 
 **My accomplishments:**
 
